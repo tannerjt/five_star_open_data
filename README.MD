@@ -10,5 +10,6 @@ This repository contains...
 + 4 star
 + 5 star
 + 6 star!!!
++ 7 stars!!!
 
 And this is where you can find the original docs [Open Data Guide](https://5stardata.info/en/).
